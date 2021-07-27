@@ -31,6 +31,8 @@ BASH
 # chmod +x jarvis
 
 
+# process:child , exec throw &, запомнить или записать куда то pid и потом убить его
+
 # Как для судо добавить пароль что бы он был по умолчанию
 # echo "$root" | sudo command
 
