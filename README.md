@@ -27,6 +27,13 @@ create file "console" for use commands in linux, and automation routin work
 
 
 BASH
+# Before use execute this command in bash:
+# chmod +x jarvis
+
+
+# Как для судо добавить пароль что бы он был по умолчанию
+# echo "$root" | sudo command
+
 # Вывод команды в переменную mydir=`pwd`
 #                            mydir=$(pwd)
 # Математические команды var1=$(( 5 + 5 ))
